@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2b8a26324d467bcb4ac12fbc",
+  "owner": "qnajnq",
+  "repo": "page-d88dc7b738bb13b8d0259a90",
+  "title": "奶瓶(Nerwo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d88dc7b738bb13b8d0259a90",
+      "a": "奶瓶(Nerwo)",
+      "b": "clash verge免费节点订阅",
+      "entity": "奶瓶(Nerwo)",
+      "brand": "奶瓶(Nerwo)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0444662536fb299086930007bb5bd88786beb7a4fa64f5ad10cd4395eb77cb63",
+      "content": {
+        "primary_entity": "奶瓶(Nerwo)",
+        "keyword1": "奶瓶(Nerwo)",
+        "keyword2": "clash verge免费节点订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，在客户端内导入订阅链接即可使用。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，让奶瓶为你的跨境连接提速。",
+          "AI_CLOSING_TITLE": "轻装上路，畅连全球",
+          "AI_DESCRIPTION": "，奶瓶专注于为跨境访问人群提供稳定快速的网络加速服务，线路覆盖常见流媒体与游戏场景。基础版适合轻量月度使用，旗舰版提供 IPLC 专线与原生流媒体解锁，团队版则面向多设备协作与高带宽需求。按年付费可节省约两个月费用，订阅配置简单，将订阅链接导入 Clash Verge、Shadowrocket 等客户端即可开始使用。",
+          "AI_FEATURES_INTRO": "从套餐选择到设备适配，三个角度帮你快速上手奶瓶。",
+          "AI_FEATURES_TITLE": "奶瓶使用要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15 含 100GB 流量与 3 台设备，适合手机与笔记本日常切换。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付 ¥35 提供 300GB 流量、5 台设备与 IPLC 专线，流媒体和游戏体验更稳。",
+          "AI_FEATURE_TEXT_3": "团队版月付 ¥85 提供 1000GB 流量与 20 台设备，适合小型团队共享与定制路由。",
+          "AI_FEATURE_TITLE_1": "套餐按需选",
+          "AI_FEATURE_TITLE_2": "设备数匹配",
+          "AI_FEATURE_TITLE_3": "周期影响成本",
+          "AI_GUIDE_INTRO": "三步完成奶瓶订阅配置与客户端接入。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "奶瓶提供从基础到团队的跨境加速套餐，覆盖流媒体、游戏与日常浏览。选择符合设备数量与流量需求的版本，获取订阅链接后在 Clash Verge、Shadowrocket 等客户端导入，即可感受专线节点带来的低延迟连接。",
+          "AI_HERO_SUBTITLE": "奶瓶加速，全球畅连",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版均衡性能与价格，团队版满足高带宽多设备需求。所有套餐年付均可节省两个月费用，可按预算与设备数灵活选择。",
+          "AI_PLANS_TITLE": "套餐对比与建议",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认所选版本支持的在线设备数，以及是否需要 IPLC 专线或流媒体解锁。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，参照 Clash Verge、Shadowrocket 等客户端的导入说明完成配置。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "奶瓶加速器",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "奶瓶(Nerwo)基础版和旗舰版怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备，适合单人轻度影音。旗舰版每月300GB、5台设备，含IPLC专线游戏加速，适合有游戏或多人共享需求的用户。按日常流量与设备数对照即可。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。超出数量可能导致连接受限，多设备家庭或小组建议直接选择对应档位，避免频繁切换。",
+          "AI_FAQ_QUESTION_3": "年付相比月付划算吗？",
+          "AI_FAQ_ANSWER_3": "年付基础版¥150、旗舰版¥350、团队版¥850，相当于按月付价格折算后有一定节省。如果确定长期使用，可按年订阅；短期试用则月付更灵活。",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在客户端中选择订阅导入或添加配置，粘贴购买后获取的订阅链接并更新节点列表。不同客户端的位置略有差异，按对应客户端文档操作即可完成。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，可等待下个计费周期重置，或升级至更高流量档位。旗舰版300GB与团队版1000GB适合流量需求较大的场景，按实际用量选择更合适。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0c1314d2ae6eca0d55802f0d22265857da70a36c2f663fa9deae4e9c9809375b",
+    "sitemap.xml": "508898a93f8bd0fbff210c2db55dff9a15aabb9f79351e7631dbfacb623d795b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "dab8bc3973326d32c4636f38964e3948ac86398332609e3a1b0b2a542483c0da"
+}
